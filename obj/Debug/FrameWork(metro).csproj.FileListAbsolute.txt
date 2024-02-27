@@ -1,0 +1,14 @@
+C:\Users\ap550\source\repos\FrameWork(metro)\bin\Debug\FrameWork(metro).exe.config
+C:\Users\ap550\source\repos\FrameWork(metro)\bin\Debug\FrameWork(metro).exe
+C:\Users\ap550\source\repos\FrameWork(metro)\bin\Debug\FrameWork(metro).pdb
+C:\Users\ap550\source\repos\FrameWork(metro)\bin\Debug\MetroFramework.Design.dll
+C:\Users\ap550\source\repos\FrameWork(metro)\bin\Debug\MetroFramework.dll
+C:\Users\ap550\source\repos\FrameWork(metro)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ap550\source\repos\FrameWork(metro)\obj\Debug\FrameWork(metro).csproj.AssemblyReference.cache
+C:\Users\ap550\source\repos\FrameWork(metro)\obj\Debug\FrameWork_metro_.Form1.resources
+C:\Users\ap550\source\repos\FrameWork(metro)\obj\Debug\FrameWork_metro_.Properties.Resources.resources
+C:\Users\ap550\source\repos\FrameWork(metro)\obj\Debug\FrameWork(metro).csproj.GenerateResource.cache
+C:\Users\ap550\source\repos\FrameWork(metro)\obj\Debug\FrameWork(metro).csproj.CoreCompileInputs.cache
+C:\Users\ap550\source\repos\FrameWork(metro)\obj\Debug\FrameWor.D30BAC1F.Up2Date
+C:\Users\ap550\source\repos\FrameWork(metro)\obj\Debug\FrameWork(metro).exe
+C:\Users\ap550\source\repos\FrameWork(metro)\obj\Debug\FrameWork(metro).pdb
